@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Owner\\OneDrive\\Desktop\\Cpp_exercises\\Controlling Program Flow\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5040B9C7-5EAF-4428-AD03-994D49FAB8E8}|Controlling Program Flow\\Controlling Program Flow.vcxproj|C:\\Users\\Owner\\OneDrive\\Desktop\\Cpp_exercises\\Controlling Program Flow\\Controlling Program Flow\\ControlFlow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5040B9C7-5EAF-4428-AD03-994D49FAB8E8}|Controlling Program Flow\\Controlling Program Flow.vcxproj|solutionrelative:Controlling Program Flow\\ControlFlow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ControlFlow.cpp",
+              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive\\Desktop\\Cpp_exercises\\Controlling Program Flow\\Controlling Program Flow\\ControlFlow.cpp",
+              "RelativeDocumentMoniker": "Controlling Program Flow\\ControlFlow.cpp",
+              "ToolTip": "C:\\Users\\Owner\\OneDrive\\Desktop\\Cpp_exercises\\Controlling Program Flow\\Controlling Program Flow\\ControlFlow.cpp",
+              "RelativeToolTip": "Controlling Program Flow\\ControlFlow.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-20T12:29:14.846Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
