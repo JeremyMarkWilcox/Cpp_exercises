@@ -1,0 +1,3 @@
+﻿  SecondChallenge.cpp
+C:\Users\Owner\OneDrive\Desktop\Cpp_exercises\SecondStringChallenge\SecondStringChallenge\SecondChallenge.cpp(19,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  SecondStringChallenge.vcxproj -> C:\Users\Owner\OneDrive\Desktop\Cpp_exercises\SecondStringChallenge\x64\Debug\SecondStringChallenge.exe
